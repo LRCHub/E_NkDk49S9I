@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "永遠プレッシャー - Eien Pressure",
+  "base_artist": "AKB48",
+  "createdAt": "2026-03-08T01:21:57.261113Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "永遠プレッシャー",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/01_永遠プレッシャー_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "永遠プレッシャー",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/02_永遠プレッシャー_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "永遠プレッシャー",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/03_永遠プレッシャー_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "永遠プレッシャー",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/04_永遠プレッシャー_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "永遠プレッシャー",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/05_永遠プレッシャー_AKB48.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "永遠プレッシャー",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/pl_01_永遠プレッシャー_AKB48.txt"
+    }
+  ]
+}
